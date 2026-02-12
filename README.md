@@ -21,6 +21,6 @@ http://phpctu09.infinityfreeapp.com
 
 ### Login Page
 ![Login Page](login-page.png)
-### Home page and cart-page
-![Home Page and cart-page](Home-page.png and cart-page.png).
+### Home page 
+![Home Page](Home-page.png).
 
