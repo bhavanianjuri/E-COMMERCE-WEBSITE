@@ -19,8 +19,11 @@ http://phpctu09.infinityfreeapp.com
 - JavaScript
 ## 📸 Screenshots
 
+### Register-page 
+![Register Page](Register-page.png)
 ### Login Page
 ![Login Page](login-page.png)
 ### Home page 
 ![Home Page](Home-page.png).
-
+### cart page 
+![cart Page](cart-page.png).
