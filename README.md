@@ -17,3 +17,11 @@ http://phpctu09.infinityfreeapp.com
 - HTML
 - CSS
 - JavaScript
+## 📸 Screenshots
+
+### Login Page
+![Login Page](login-page.png)
+### Home page
+![Home Page](Home-page.png).
+### Cart Page
+![cart Page](cart-page.png)
